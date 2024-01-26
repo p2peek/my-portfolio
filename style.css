@@ -59,3 +59,35 @@
 .mid-img img{
     height: 400px;
 }
+.about-me-container{
+    height: 700px;
+    /* background-color: red; */
+}
+.small-container{
+    /* margin: 200px 200px 15px 200px; */
+    padding-top: 200px;
+    padding-left: 100px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.my-img{
+    /* padding-top: 80px;
+    padding-left: 30px; */
+}
+.my-img img{
+    height: 400px;
+}
+.about-me-content{
+    padding-right: 100px;
+    padding-top: 80px;
+}
+span{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+.new{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 10;
+}
