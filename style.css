@@ -66,7 +66,7 @@
 .mid-img img{
     height: 40vh;
 }
-.about-me-container{
+#about-me-container{
     height: 80vh;
 }
 .small-container{
@@ -94,4 +94,31 @@ span{
     font-size: 1.8vh;
     font-family: 'Poppins', sans-serif;
     font-weight: 10;
+}
+.btn-1{
+    margin-top: 2vh;
+    /* padding-top: 3vh;
+    padding-left: 4vh; */
+    /* padding: 8px 20px 10px 20px; */
+    padding: 1.5vh;
+
+    color: white;
+    background-color: yellow;
+    border: 0px;
+    font-size: 2vh;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+
+
+}
+.what-i-do{
+    height: 10vh;
+    /* background-color: red; */
+    text-align: center;
+}
+.what-i-do h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 5vh;
+    font-weight: 100;
+
 }
