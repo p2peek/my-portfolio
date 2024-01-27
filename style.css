@@ -30,7 +30,7 @@
 .mid-sec{
     display: flex;
     background-color: #d7fbff;
-    height: 700px;
+    height: 80vh;
 }
 .mid-info{
     padding-left: 200px;
@@ -60,7 +60,7 @@
     height: 400px;
 }
 .about-me-container{
-    height: 700px;
+    height: 80vh;
     /* background-color: red; */
 }
 .small-container{
