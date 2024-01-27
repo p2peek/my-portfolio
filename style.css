@@ -19,7 +19,7 @@
 .nav-content{
     font-family: 'Poppins', sans-serif;
     padding-top: 40px;
-    width: 800px;
+    width: 40vw;
     display: flex;
     gap: 70px;
     font-size: 20px;
