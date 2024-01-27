@@ -97,13 +97,10 @@ span{
 }
 .btn-1{
     margin-top: 2vh;
-    /* padding-top: 3vh;
-    padding-left: 4vh; */
-    /* padding: 8px 20px 10px 20px; */
     padding: 1.5vh;
 
     color: white;
-    background-color: yellow;
+    background-color: black;
     border: 0px;
     font-size: 2vh;
     font-family: 'Poppins', sans-serif;
@@ -113,19 +110,13 @@ span{
 }
 .what-i-do{
     height: 25vh;
-    /* background-color: red; */
     text-align: center;
     display: flex;
     flex-direction: column-reverse;
-    /* padding: auto;
-    margin: auto; */
 }
 .what-i-do span{
     font-family: 'Poppins', sans-serif;
-    font-size: 3.5vh;
-    /* font-weight: 100; */
-    /* padding: auto;
-    margin: auto; */
+    font-size: 5.5vh;
     justify-content: flex-start;
 
 }
@@ -146,7 +137,14 @@ span{
     border: 3px solid;
     color: black;
     padding: 2vh;
+    transition: transform 0.5s;
 }
 .box img{
     height: 6vw;
 }
+.box-3 :hover{
+    background-color:#d7fbff ;
+    transform: scale(1.1);
+    transition: transform 0.5s;
+}
+
