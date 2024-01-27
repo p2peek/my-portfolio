@@ -16,18 +16,19 @@
 }
 .logo{
     padding-left: 40px;
-    padding-top: 20px;
+    padding-top: 2vh;
 }
 .user-img{
     height: 8vh;
 }
 .nav-content{
     font-family: 'Poppins', sans-serif;
-    padding-top: 40px;
+    padding-top: 4vh;
     width: 40vw;
     display: flex;
     gap: 3vw;
     font-size: 1vw;
+    font-weight: 500;
 }
 .nav-content a{
     text-decoration: none;
