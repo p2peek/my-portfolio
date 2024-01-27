@@ -23,8 +23,8 @@
     padding-top: 40px;
     width: 40vw;
     display: flex;
-    gap: 70px;
-    font-size: 20px;
+    gap: 3vw;
+    font-size: 1vw;
 }
 .nav-content a{
     text-decoration: none;
