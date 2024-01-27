@@ -11,6 +11,8 @@
     display: flex;
     justify-content: space-between;
     padding-bottom: 20px;
+    width: 100vw;
+    height: 20vh;
 }
 .logo{
     padding-left: 40px;
