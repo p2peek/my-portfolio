@@ -18,6 +18,9 @@
     padding-left: 40px;
     padding-top: 20px;
 }
+.user-img{
+    height: 8vh;
+}
 .nav-content{
     font-family: 'Poppins', sans-serif;
     padding-top: 40px;
